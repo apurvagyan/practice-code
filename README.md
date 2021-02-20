@@ -11,7 +11,6 @@ for i in reversed(range(5)):
  ```
  
  
- Code documentation because I'm too dumb to write a for loop
 
 Java example
 
@@ -119,5 +118,3 @@ public class Conveyor extends Subsystem {
     }
     
 ```
-
-# Please someone help me learn how to code
